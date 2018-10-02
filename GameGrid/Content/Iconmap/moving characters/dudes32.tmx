@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="4" height="2" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" source="dudes.tsx"/>
+ <layer name="Tilelaag 1" width="4" height="2">
+  <data>
+   <tile gid="1"/>
+   <tile gid="2"/>
+   <tile gid="3"/>
+   <tile gid="4"/>
+   <tile gid="9"/>
+   <tile gid="10"/>
+   <tile gid="11"/>
+   <tile gid="12"/>
+  </data>
+ </layer>
+</map>
